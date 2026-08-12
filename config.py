@@ -1,7 +1,7 @@
 # config.py
 
 # Telegram BotFather থেকে পাওয়া Bot Token
-BOT_TOKEN = "8661744403:AAFpn6awjmN6BG68qXrub85siQvUBuJ6LT4"
+BOT_TOKEN = "8892899369:AAF9Da_KqP5w8avMkRzh3MA7jS36gaRSqtQ"
 
 # Admin Telegram User ID
 # একাধিক admin হলে এভাবে লিখবে:
