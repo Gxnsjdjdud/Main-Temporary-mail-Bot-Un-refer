@@ -44,7 +44,7 @@ from database import (
 # SETTINGS
 # ============================================================
 
-API_BASE = "https://smails.dev/api"
+API_BASE = "https://temp-mail.org/en/api"
 
 POLL_SECONDS = 3
 
