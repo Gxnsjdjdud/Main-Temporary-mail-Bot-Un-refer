@@ -44,7 +44,7 @@ from database import (
 # SETTINGS
 # ============================================================
 
-API_BASE = "https://api.domainee.dev"
+API_BASE = "https://smails.dev/api"
 
 POLL_SECONDS = 3
 
