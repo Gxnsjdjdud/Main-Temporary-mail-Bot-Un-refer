@@ -44,7 +44,7 @@ from database import (
 # SETTINGS
 # ============================================================
 
-API_BASE = "https://temp-mail.org/en/api"
+API_BASE = "https://api.domainee.dev"
 
 POLL_SECONDS = 3
 
